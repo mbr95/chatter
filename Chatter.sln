@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatter.Server", "Chatter.Server\Chatter.Server.csproj", "{AC76C6DC-7C1D-49AF-8AAC-0A2EA35BBADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatter.Client", "Chatter.Client\Chatter.Client.csproj", "{DE70837A-009C-4AAB-A133-25FC85792016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC76C6DC-7C1D-49AF-8AAC-0A2EA35BBADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76C6DC-7C1D-49AF-8AAC-0A2EA35BBADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76C6DC-7C1D-49AF-8AAC-0A2EA35BBADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76C6DC-7C1D-49AF-8AAC-0A2EA35BBADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE70837A-009C-4AAB-A133-25FC85792016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE70837A-009C-4AAB-A133-25FC85792016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE70837A-009C-4AAB-A133-25FC85792016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE70837A-009C-4AAB-A133-25FC85792016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
